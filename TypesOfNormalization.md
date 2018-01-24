@@ -51,7 +51,8 @@ Another Example:
 Now, the question here is : Does the "Employee ID" Primary key help to identify Customer? Do the Customer Name, Customer City, Customer Postal Code depend upon the Employee ID to correctly identify the Customer?
 
 The problem here is the Employee ID Foriegn Key.
-**Question: if there is ONLY one key in the primary key, does 2NF apply?**
+*Question: if there is ONLY one key in the primary key, does 2NF apply?*
+
 ## Third Normal Form
 Are there two or more columns which represent the same data?
 For example City Namd and PIN Code are two things which represent the same information
